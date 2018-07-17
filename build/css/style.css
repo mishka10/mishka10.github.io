@@ -1330,7 +1330,7 @@ template {
   bottom: 0;
   height: 8px;
   width: 100%;
-  background-image: url(../img/icon/zigzag-line.svg);
+  background-image: url("../img/icon/zigzag-line.svg");
   background-repeat: repeat-x;
   background-position: 50% 100%;
 }
